@@ -2,4 +2,4 @@
 Installasi Mini-ndn
 
 
-`sudo`
+`sudo apt install`
