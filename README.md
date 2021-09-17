@@ -20,13 +20,17 @@ sudo apt install libpcap-dev libsystemd-dev g++ pkg-config python3-minimal libbo
    ./waf
    sudo ./waf install
    ```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+ - Instalasi NLSR
+
+   Download PSnyc dan NLSR
+   ```
+   git clone https://github.com/named-data/PSync
+   git clone https://github.com/named-data/NLSR
+   ```
+   Lakukan build ke setiap folder tersebut
+   ```
+   ./waf configure
+   ./waf
+   sudo ./waf install
+   ```
+  
