@@ -2,5 +2,4 @@
 Installasi Mini-ndn
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+'sudo'
