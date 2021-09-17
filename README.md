@@ -1,5 +1,5 @@
 # mini-ndn
-Installasi Mini-ndn yang akan dilakukan dengan menggunakan source. Installasi ini dilakukan pada Ubuntu 18.04
+Installasi Mini-ndn yang akan dilakukan dengan menggunakan source yang  dilakukan pada Ubuntu 18.04
 
 1. Untuk menginstall Mini-ndn langkah pertama menginstall dependency yang dibutuhkan.
 ```
@@ -55,7 +55,7 @@ sudo apt update
    ./waf
    sudo ./waf install
    ```
-3. Menginsatall Mini-NDN
+3. Menginstall Mini-NDN
 
  - Instalasi Mini-NDN
    
